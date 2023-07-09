@@ -9,6 +9,6 @@ if bit == '64bit':
 
 elif bit == '32bit':
     print(" [///] You Are 32 BIT USER")
-    import a32
+    import LAVA32
 
 
